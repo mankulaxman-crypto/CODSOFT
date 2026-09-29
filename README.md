@@ -1,2 +1,11 @@
-# CODSOFT
-CodSoft Full Stack Web Development Internship - 3 Tasks | Student Management, Restaurant Ordering, Job Portal | Next.js Node.js PostgreSQL
+# TASK 3 - JOB PORTAL - CareerHub
+Tech: Next.js, Node.js, PostgreSQL, Prisma
+
+Features:
+- Job Seekers can search jobs, upload resume, apply, track applications
+- Recruiters can post jobs, manage candidates, view applications
+- PostgreSQL with Prisma ORM
+
+Live Demo: [Add Vercel Link Later]
+GitHub: https://github.com/mankulaxman-crypto/CODSOFT
+#codsoft

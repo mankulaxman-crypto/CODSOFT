@@ -1,28 +1,28 @@
 # CODSOFT Internship - Full Stack Web Development
-**Name: Laxman M** | **ID: CODSOFT**
+**Name: Laxman M | ID: CODSOFT | Gajwel, Telangana**
 
-### Completed Tasks (3/5 Required for Certificate)
+## 🎯 Completed 3/3 Tasks - Ready for Certificate
 
-#### ✅ TASK 3 - JOB PORTAL - CareerHub
-- **Path:** `TASK3-Job-Portal/app/page.tsx`
-- **Tech:** Next.js, Node.js, PostgreSQL, Prisma
-- **Features:** Search jobs, Apply with resume, Track applications, Recruiter dashboard
-- **Status:** Completed
+### ✅ TASK 1: Student Management System
+- Path: `TASK1-Student-Management-System/app/page.tsx`
+- Tech: Next.js 14, PostgreSQL, Role-Based Auth
+- Features: Admin/Teacher/Student Dashboard, Attendance, Fees
 
-#### ✅ TASK 1 - STUDENT MANAGEMENT SYSTEM
-- **Path:** `TASK1-Student-Management-System/app/page.tsx`
-- **Tech:** Next.js, PostgreSQL, Role-based Auth (Admin/Teacher/Student)
-- **Features:** Attendance, Fees, Student CRUD, Dashboard
-- **Status:** In Progress
+### ✅ TASK 2: Restaurant Ordering System - FoodieExpress
+- Path: `TASK2-Restaurant-Ordering/app/page.tsx`
+- Tech: Next.js, Node.js, Live Order Tracking
+- Features: Menu, Add to Cart, Order Tracking (Preparing → Delivered)
 
-#### ⏳ TASK 2 - RESTAURANT ORDERING SYSTEM
-- **Path:** `TASK2-Restaurant-Ordering/`
-- **Status:** Planned
+### ✅ TASK 3: Job Portal - CareerHub
+- Path: `TASK3-Job-Portal/app/page.tsx`
+- Tech: Next.js, Node.js, PostgreSQL, Prisma
+- Features: Job Search, Resume Upload, Application Tracking
 
-### Tech Stack Used
+## 💻 Tech Stack
 Next.js 14, Node.js, PostgreSQL, Prisma ORM, Tailwind CSS
 
-### How to Run
-```bash
-npm install
-npm run dev
+## 🔗 Links
+- GitHub: https://github.com/mankulaxman-crypto/CODSOFT
+- LinkedIn Video: [Uploading Soon]
+
+#codsoft #webdevelopment #fullstack #nextjs #internship
